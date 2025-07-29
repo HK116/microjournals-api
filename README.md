@@ -14,14 +14,14 @@ Capture tiny daily entries, moods, and moments — like digital sticky notes for
 ---
 
 ## 📦 Project Structure
-
+```
 microjournals-api/
 ├── app/
 │ ├── main.py # FastAPI routes and server
 │ └── models.py # Pydantic models for entries
 ├── requirements.txt # Project dependencies
 └── README.md # This file
-
+```
 ---
 
 ## 📚 Getting Started
